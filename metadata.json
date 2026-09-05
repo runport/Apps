@@ -1,0 +1,6 @@
+{
+  "name": "مدیریت تولید و فروش",
+  "description": "سامانه مدیریت جامع تولید، برش، فروش، انبارداری و آنالیز سود با سبک دارک اگزکیوتیو",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
